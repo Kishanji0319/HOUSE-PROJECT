@@ -30,7 +30,7 @@ st.markdown("""
             overflow: hidden;!important
               }
     .stApp {
-        background-image: url("https://potentpages.com/wp-content/uploads/2024/06/house.webp");
+        background-image: url("https://miro.medium.com/v2/resize:fit:1400/0*DLSc317Usr5g5USD.jpeg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
